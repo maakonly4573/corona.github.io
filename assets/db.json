@@ -1,0 +1,47 @@
+{
+  "Cases": [
+    {
+      "_id": 1,
+      "name": "AAA",
+      "gender": "Male",
+      "age": 26,
+      "address": "aaaAAA",
+      "city": "aA",
+      "country": "aaAA",
+      "status": "Recovered",
+      "updated": "2020-02-26"
+    },
+    {
+      "_id": 2,
+      "name": "BBB",
+      "gender": "Female",
+      "age": 28,
+      "address": "bbbBBB",
+      "city": "bB",
+      "country": "bbBB",
+      "status": "Dead",
+      "updated": "2020-03-06"
+    },
+    {
+      "_id": 3,
+      "name": "CCC",
+      "gender": "Male",
+      "age": 27,
+      "address": "cccCCC",
+      "city": "cC",
+      "country": "ccCC",
+      "status": "Positive",
+      "updated": "2020-03-21"
+    },
+    {
+      "id": "5",
+      "name": "DDD",
+      "gender": "Female",
+      "age": 25,
+      "address": "dD",
+      "city": "ddDD",
+      "country": "dD",
+      "status": "Recovered"
+    }
+  ]
+}
